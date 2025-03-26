@@ -58,8 +58,6 @@
 ### Kuidas riske ennetada või leevendada
 
 
-
-
 # UI Testimise Raamistikud
 
 UI testimise raamistikud on tööriistad, mis aitavad automatiseerida kasutajaliidese testimist, tagades, et rakenduse visuaalsed ja funktsionaalsed osad töötavad ootuspäraselt. 
@@ -94,4 +92,3 @@ UI testimise raamistikud on tööriistad, mis aitavad automatiseerida kasutajali
 - Python-põhine avatud lähtekoodiga testimisraamistik.
 - Kasutab märksõnapõhist testimist, mis teeb selle kasutajasõbralikuks.
 - Toetab Seleniumi ja muid UI testimise tööriistu.
-
