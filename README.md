@@ -56,3 +56,42 @@
 ### Võimalikud riskid ja nende mõjud
 
 ### Kuidas riske ennetada või leevendada
+
+
+
+
+# UI Testimise Raamistikud
+
+UI testimise raamistikud on tööriistad, mis aitavad automatiseerida kasutajaliidese testimist, tagades, et rakenduse visuaalsed ja funktsionaalsed osad töötavad ootuspäraselt. 
+
+## Populaarsed UI testimise raamistikud
+
+### 1. Selenium
+- Avatud lähtekoodiga raamistik veebirakenduste UI testimiseks.
+- Toetab mitut programmeerimiskeelt (Java, Python, C#, JavaScript).
+- Võimaldab testide käivitamist erinevates brauserites.
+
+### 2. Cypress
+- Kaasaegne JavaScript-põhine testimisraamistik, mis keskendub eelkõige frontendi testimisele.
+- Kiirem kui Selenium, kuna töötab otse brauseris.
+- Hea arendajasõbralikkus ja detailne vealogimine.
+
+### 3. Playwright
+- Microsofti arendatud kaasaegne UI testimise raamistik.
+- Toetab mitut brauserit (Chromium, Firefox, WebKit).
+- Võimaldab testida ka mobiilibrauserites ja mitme brauseriakna vahel.
+
+### 4. TestCafe
+- JavaScript-põhine UI testimise raamistik.
+- Ei vaja WebDriverit ega brauserilaiendusi.
+- Toetab paralleeltestimist ja visuaalset regressioonitesti.
+
+### 5. Appium
+- Kasutatakse mobiilirakenduste UI testimiseks (iOS, Android).
+- Toetab Selenium WebDriverit ja mitut programmeerimiskeelt.
+
+### 6. Robot Framework
+- Python-põhine avatud lähtekoodiga testimisraamistik.
+- Kasutab märksõnapõhist testimist, mis teeb selle kasutajasõbralikuks.
+- Toetab Seleniumi ja muid UI testimise tööriistu.
+
