@@ -1,53 +1,58 @@
-# testimine
+# Süsteemi Testplaan
 
-Süsteemi testplaani koostamine on oluline samm tarkvara või süsteemi testimisprotsessis. See dokument kirjeldab testimise ulatust, eesmärke, meetodeid ja ressursse. Allpool on ülevaade testplaani koostamise sammudest
-1. Sissejuhatus
-Testitava süsteemi või tarkvara kirjeldus
+## 1. Sissejuhatus
+### Testitava süsteemi või tarkvara kirjeldus
 
-Testplaani eesmärk
+### Testplaani eesmärk
 
-Sihtgrupp (kes kasutab testplaani)
+### Sihtgrupp (kes kasutab testplaani)
 
-2. Testimise eesmärgid ja ulatus
-Milliseid funktsioone ja süsteemi osi testitakse
+## 2. Testimise eesmärgid ja ulatus
+### Milliseid funktsioone ja süsteemi osi testitakse
 
-Mis jääb testimise alt välja
+### Mis jääb testimise alt välja
 
-Testimise piirangud ja eeldused
+### Testimise piirangud ja eeldused
 
-3. Testimise metoodika ja lähenemine
-Kasutatavad testitüübid (funktsionaalne, mitterahaline, jõudlustestid jne)
+## 3. Testimise metoodika ja lähenemine
+### Kasutatavad testitüübid
+- Funktsionaalne testimine
+- Mitterahaline testimine
+- Jõudlustestid jne
 
-Testimistasemed (üksuse testimine, integreerimise testimine, süsteemitestimine)
+### Testimistasemed
+- Üksuse testimine
+- Integreerimise testimine
+- Süsteemitestimine
 
-Kasutatavad tööriistad ja raamistikud
+### Kasutatavad tööriistad ja raamistikud
 
-4. Testitavad stsenaariumid ja juhtumid
-Peamised teststsenaariumid ja nende kirjeldused
+## 4. Testitavad stsenaariumid ja juhtumid
+### Peamised teststsenaariumid ja nende kirjeldused
 
-Oodatavad tulemused
+### Oodatavad tulemused
 
-5. Testimise ressursid ja rollid
-Testimismeeskonna liikmed ja nende ülesanded
+## 5. Testimise ressursid ja rollid
+### Testimismeeskonna liikmed ja nende ülesanded
 
-Vajalikud tarkvara ja riistvara ressursid
+### Vajalikud tarkvara ja riistvara ressursid
 
-6. Ajakava ja testimise etapid
-Testimisperioodid ja ajakava
+## 6. Ajakava ja testimise etapid
+### Testimisperioodid ja ajakava
 
-Testimise verstapostid
+### Testimise verstapostid
 
-7. Vigade raporteerimine ja jälgimine
-Kasutatavad veahaldustööriistad (nt JIRA, TestRail)
+## 7. Vigade raporteerimine ja jälgimine
+### Kasutatavad veahaldustööriistad (nt JIRA, TestRail)
 
-Vigade prioriseerimise ja lahendamise protsess
+### Vigade prioriseerimise ja lahendamise protsess
 
-8. Edukriteeriumid ja lõpetamise tingimused
-Millal testimine loetakse edukaks
+## 8. Edukriteeriumid ja lõpetamise tingimused
+### Millal testimine loetakse edukaks
 
-Testimise lõpetamise tingimused
+### Testimise lõpetamise tingimused
 
-9. Riskid ja maandamismeetmed
-Võimalikud riskid ja nende mõjud
+## 9. Riskid ja maandamismeetmed
+### Võimalikud riskid ja nende mõjud
 
-Kuidas riske ennetada või leevendada
+### Kuidas riske ennetada või leevendada
